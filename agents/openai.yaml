@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype to Product UI"
+  short_description: "把产品原型逐页实现为可用、可验收、可部署的网页界面"
+  default_prompt: "Use $prototype-to-product-ui to turn my product requirements and UI references into a functional, visually verified web interface."
